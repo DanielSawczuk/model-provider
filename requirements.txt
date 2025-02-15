@@ -1,0 +1,4 @@
+kokoro>=0.7.11
+soundfile
+fastapi[standard]
+black
